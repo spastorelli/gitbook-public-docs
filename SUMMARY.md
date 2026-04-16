@@ -1,7 +1,18 @@
 # Table of contents
 
 * [Welcome](README.md)
-* [API](api.md)
+* [API](api/README.md)
+  * ```yaml
+    type: builtin:openapi
+    props:
+      models: true
+      downloadLink: true
+    dependencies:
+      spec:
+        ref:
+          kind: openapi
+          spec: gitbook-petstore
+    ```
 
 ## Getting Started
 
