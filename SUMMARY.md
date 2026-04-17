@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Welcome](README.md)
+* [Getting started](getting-started.md)
 * [API](api/README.md)
   * ```yaml
     type: builtin:openapi
@@ -16,8 +17,8 @@
 
 ## Getting Started
 
-* [Quickstart](getting-started/quickstart.md)
-* [Publish your docs](getting-started/publish-your-docs.md)
+* [Quickstart](getting-started-1/quickstart.md)
+* [Publish your docs](getting-started-1/publish-your-docs.md)
 
 ## Basics
 
