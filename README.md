@@ -1,4 +1,12 @@
-# Page
+# API Reference
+
+## Getting started
+
+This is how you get started
+
+## Authentication
+
+This is how you authenticate
 
 ## Step-by-step guide
 

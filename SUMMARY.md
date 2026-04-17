@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Page](README.md)
+* [API Reference](README.md)
   * ```yaml
     type: builtin:openapi
     props:
