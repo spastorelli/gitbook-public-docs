@@ -12,6 +12,10 @@ Adding more content
 
 And some more content
 
+
+
+And another one with a CR title
+
 ## Step-by-step guide
 
 Stepper blocks let you break down a tutorial or guide into separate, but clearly linked steps. Each step can contain multiple different blocks, allowing you to add detailed information.
